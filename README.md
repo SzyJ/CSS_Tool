@@ -4,4 +4,4 @@
 3. Take a quiz to test your knowledge!
 
 This website is mobile friendly!
-Try it out here: [CSS_Tool](http://szy.wtf/projects/CSS_Tool/Colours_and_Backgrounds.html)
+Try it out here: [CSS_Tool](https://szy.wtf/projects/CSS_Tool/Colours_and_Backgrounds.html)
